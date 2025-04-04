@@ -5,7 +5,7 @@ Welcome to the Al-Photoshop-2025 repository! 🖌 This is your go-to place for a
 ## 📁 Repository Overview  
 - Name: Photoshop-AI-2025 
 - Description: An opportunity to access Adobe Photoshop 2025 for free. Tags: Adobe-Photoshop-Ai-generative-2025-free, download Adobe Photoshop 2025 at no charge, free pre-activated version.
-  
+   
 - Topics: adobe, adobe-photoshop, photoshop, free-photoshop-pre-activated, generative-fill-photoshop, photoshop-installation, windows-photoshop
    
 ## 🔗 Software Access   
